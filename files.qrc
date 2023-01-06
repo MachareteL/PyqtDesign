@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="bkg">
+    <file>img/nght.jpg</file>
+    <file>img/papel.png</file>
+  </qresource>
+</RCC>
